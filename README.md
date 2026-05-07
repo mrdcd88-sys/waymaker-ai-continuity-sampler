@@ -64,5 +64,3 @@ This sampler intentionally excludes private Waymaker architecture, protected rou
 For high-risk, regulated, legal, financial, security, infrastructure, healthcare, public-sector, or customer-impacting uses, obtain qualified human review before acting.
 
 More sampler files coming next update cycle. Current repo includes the public-safe overview, license boundary, and disclaimer.
-
-prompts/ai-continuity-risk-snapshot.md
