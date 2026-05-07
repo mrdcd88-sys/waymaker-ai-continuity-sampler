@@ -36,3 +36,29 @@ The sampler is allowed to travel. The attribution must travel with it.
 LICENSE
  Add custom source-available evaluation license
 Adds custom attribution and noncommercial evaluation terms for the public-safe sampler.
+
+DISCLAIMER.md
+Add public-safe disclaimer
+Adds non-advice, no-certification, no-production-authorization, and human-review boundary language for the sampler.
+
+# Disclaimer
+
+This repository is provided as a public-safe educational and evaluation sampler.
+
+It does **not** provide legal, financial, compliance, cybersecurity, procurement, or operational certification advice. It should not be treated as a substitute for qualified professional review.
+
+## No Production Authorization
+
+Use of this sampler does not authorize production deployment, regulated use, vendor certification, internal productization, commercial resale, model training, benchmarking, derivative system design, or representation of this work as your own.
+
+## No Warranty
+
+This material is provided "as is" without warranty. The author makes no guarantee that use of this sampler will prevent outages, compliance failures, data exposure, business interruption, vendor lockout, or other losses.
+
+## Public-Safe Boundary
+
+This sampler intentionally excludes private Waymaker architecture, protected routing, internal engines, sealed-core materials, private governance mechanisms, legal strategy, and commercial implementation materials.
+
+## Human Review Required
+
+For high-risk, regulated, legal, financial, security, infrastructure, healthcare, public-sector, or customer-impacting uses, obtain qualified human review before acting.
