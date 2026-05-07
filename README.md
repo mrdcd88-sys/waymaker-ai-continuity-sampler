@@ -37,9 +37,6 @@ LICENSE
  Add custom source-available evaluation license
 Adds custom attribution and noncommercial evaluation terms for the public-safe sampler.
 
-DISCLAIMER.md
-Add public-safe disclaimer
-Adds non-advice, no-certification, no-production-authorization, and human-review boundary language for the sampler.
 
 # Disclaimer
 
