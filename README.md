@@ -33,11 +33,6 @@ Core principle:
 
 The sampler is allowed to travel. The attribution must travel with it.
 
-LICENSE
- Add custom source-available evaluation license
-Adds custom attribution and noncommercial evaluation terms for the public-safe sampler.
-
-
 # Disclaimer
 
 This repository is provided as a public-safe educational and evaluation sampler.
